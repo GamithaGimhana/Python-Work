@@ -1,3 +1,3 @@
-Hello, I'm Gami!
-Working in a new file.
-Appending a new line.
+Line 1
+Line 2
+Line 3
